@@ -84,7 +84,13 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1620128324295</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Fixat med Gui">
+      <created>1620637637495</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1620637637495</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Clicker och Clicker gui" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clicker och Clicker gui" />
+    <MESSAGE value="Fixat med Gui" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixat med Gui" />
   </component>
 </project>
