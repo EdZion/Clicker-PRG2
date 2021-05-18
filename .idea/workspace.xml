@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64f0164a-13cc-454a-86d9-78186cfaa46e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Clicker/src/view.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Clicker/src/Clicker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clicker/src/Clicker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Clicker/src/ClickerGui.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clicker/src/ClickerGui.java" afterDir="false" />
@@ -32,9 +31,11 @@
   <component name="ProjectId" id="1s1GH7VdS1SBoSqGJOPhnJLcN4u" />
   <component name="PropertiesComponent">
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ja/prg2-slutprojekt" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -97,7 +98,13 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1620732952648</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="Slut av lektionen">
+      <created>1621242639538</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1621242639538</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

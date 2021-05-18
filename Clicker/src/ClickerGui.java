@@ -1,4 +1,6 @@
 import javax.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class ClickerGui {
     private JPanel Jpanel;
@@ -10,6 +12,7 @@ public class ClickerGui {
     private JButton button6;
     private JButton clickerButton;
     private JTextArea textArea1;
+
 
     public static void main(String[] args) {
         JFrame frame = new JFrame("ClickerGui");
