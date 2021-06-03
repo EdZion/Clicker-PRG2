@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64f0164a-13cc-454a-86d9-78186cfaa46e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Clicker/src/DatabaseLoginData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clicker/src/clickerDB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Clicker/src/Clicker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clicker/src/Clicker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clicker/src/ClickerGui.form" beforeDir="false" afterPath="$PROJECT_DIR$/Clicker/src/ClickerGui.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Clicker/src/ClickerGui.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clicker/src/ClickerGui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clicker/src/view.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clicker/src/view.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,10 +37,15 @@
   <component name="PropertiesComponent">
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ja/prg2-slutprojekt" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -49,7 +59,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Clicker">
+    <configuration name="Clicker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clicker" />
+      <module name="Clicker" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ClickerGui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClickerGui" />
       <module name="Clicker" />
@@ -57,9 +74,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="controller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller" />
+      <module name="Clicker" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="view" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view" />
+      <module name="Clicker" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Clicker" />
         <item itemvalue="Application.ClickerGui" />
+        <item itemvalue="Application.controller" />
+        <item itemvalue="Application.view" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +138,13 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1621242639538</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="Slut av lektionen">
+      <created>1621337694003</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1621337694004</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -10,8 +10,9 @@ public class ClickerGui {
     private JButton button4;
     private JButton button5;
     private JButton button6;
-    private JButton clickerButton;
+    private JButton ClickButton;
     private JTextArea textArea1;
+    private JButton Savebutton;
 
 
     public static void main(String[] args) {
@@ -21,4 +22,5 @@ public class ClickerGui {
         frame.pack();
         frame.setVisible(true);
     }
+
 }
