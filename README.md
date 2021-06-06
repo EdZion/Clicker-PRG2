@@ -23,7 +23,7 @@ För att lägga till bilder i markdown. Bilderna kan du ladda upp med Git som va
 ## Positiva erfarenheter
 
 Här beskriver du vad som har gått bra i ditt projekt och analyserar varför. Hur ska du upprepa framgångarna.
-
+ 
 ## Negativa erfarenheter
 
 Här beskriver du det som du anser har gått mindre bra med ditt projekt och analyserar hur du kan undvika detta i framtida projekt.
