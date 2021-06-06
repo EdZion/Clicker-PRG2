@@ -5,10 +5,12 @@ Alexander Holmström Te18
 2021-06-01
 
 ## Inledning
+Syftet med det här arbetet är att göra något som går att ansluta till en databas eller internet. Jag valde i mitt projekt att göra en Clicker som ska spara ens framsteg i en databas så att man ska kunna komma tillbaka när man än vill och då även kunna spela där man lämnnade. Koden ska vara skriven i java och även på ett korrekt MVC tänk. 
 
-Här beskriver du kortfattat arbetets syfte/mål, arbetssätt, genomförande.
 
 ## Bakgrund
+Jag började med att göra en databas som ska användas till att spara clickerscore, användare och clickerbonus. När jag hade gjort databasen så gjorde jag min java swing så att jag hade en layout på hur jag ville att min clicker skulle se ut. 
+
 
 Redovisa arbetets olika delar. Så att läsaren förstår vad du gjort och hur.
 
