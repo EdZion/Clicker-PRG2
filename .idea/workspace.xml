@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64f0164a-13cc-454a-86d9-78186cfaa46e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Clicker/src/DatabaseLoginData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clicker/src/clickerDB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Clicker/src/Clicker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clicker/src/Clicker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Clicker/src/ClickerGui.form" beforeDir="false" afterPath="$PROJECT_DIR$/Clicker/src/ClickerGui.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Clicker/src/ClickerGui.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clicker/src/ClickerGui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clicker/src/DatabaseLoginData.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clicker/src/DatabaseLoginData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clicker/src/clickerDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clicker/src/clickerDB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Clicker/src/view.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clicker/src/view.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -144,7 +143,13 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1621337694004</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL−00007" summary="Får inte programmet att starta">
+      <created>1622726230853</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1622726230853</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +170,7 @@
     <MESSAGE value="Clicker och Clicker gui" />
     <MESSAGE value="Fixat med Gui" />
     <MESSAGE value="Slut av lektionen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Slut av lektionen" />
+    <MESSAGE value="Får inte programmet att starta" />
+    <option name="LAST_COMMIT_MESSAGE" value="Får inte programmet att starta" />
   </component>
 </project>

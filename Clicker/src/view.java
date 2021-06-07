@@ -12,8 +12,6 @@ public class view extends ClickerGui {
     private JButton Savebutton;
     private JTextArea textArea1;
 
-
-
     public JButton getSavebutton() {
         return Savebutton;
     }
@@ -27,23 +25,23 @@ public class view extends ClickerGui {
         return button1;
     }
 
-    public JButton getButton2() {
+    public JButton getButton6() {
         return button2;
     }
 
-    public JButton getButton3() {
+    public JButton getButton2() {
         return button3;
     }
 
-    public JButton getButton4() {
+    public JButton getButton5() {
         return button4;
     }
 
-    public JButton getButton5() {
+    public JButton getButton4() {
         return button5;
     }
 
-    public JButton getButton6() {
+    public JButton getButton3() {
         return button6;
     }
 
